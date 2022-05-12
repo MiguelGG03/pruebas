@@ -1,5 +1,5 @@
 # fase-3
-Enlace a la pagina web : [Fase 3](https://fase3html.gonzalogmv.repl.co)
+Enlace a la pagina web : [Fase 3](https://migueliiin.github.io/pruebas/)
 
 Enlace al repositorio : [GitHub](https://github.com/GonzaloGmv/fase3html.git)
 
